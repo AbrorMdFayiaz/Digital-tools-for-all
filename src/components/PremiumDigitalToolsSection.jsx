@@ -4,9 +4,7 @@ import SelectedCards from "./SelectedCards";
 
 const PremiumDigitalToolsSection = ({selectedTools , setSelectedTools}) => {
       const [productsButtonIsSelected,setProductsButtonIsSelected] = useState(true);
-
       const [totalPrice, SetTotalPrice]=useState(0);
-    
     return (
         <div className="my-12 md:my-32 px-2 container mx-auto">
             <section className="text-center space-y-4">

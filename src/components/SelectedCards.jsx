@@ -3,7 +3,7 @@ import { Bounce, toast } from "react-toastify";
 
 const SelectedCards = ({selectedTools , setSelectedTools,totalPrice, SetTotalPrice}) => {
 
-    const removeButtonHandler =(item)=>{
+const removeButtonHandler =(item)=>{
         SetTotalPrice(totalPrice-item.price);
         setSelectedTools(selectedTools.filter(element=>element!==item));
         toast(`"${item.title}" is removed from cart`, {

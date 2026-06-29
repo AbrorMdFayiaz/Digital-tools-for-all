@@ -1,7 +1,5 @@
 import NavBarLinks from './NavBarLinks';
 import { FiShoppingCart } from 'react-icons/fi';
-
-
 const NavBar = ({selectedTools}) => {
     return (
                <article className='shadow-sm '>

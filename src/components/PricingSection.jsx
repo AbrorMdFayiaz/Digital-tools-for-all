@@ -2,7 +2,6 @@ import { use } from 'react';
 const promisePricingCardData = fetch('/allJson/pricingCardsInfo.json').then(r=>r.json());
 const PricingSection = () => {
         const cardsPricingData=use(promisePricingCardData);
-        // console.log(cardsPricingData);
     return (
         <section className='my-11 md:my-32 py-11 md:py-32'>
             <div className='text-center  '>
