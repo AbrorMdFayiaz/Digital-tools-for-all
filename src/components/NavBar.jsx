@@ -31,5 +31,4 @@ const NavBar = ({selectedTools}) => {
                </article>
     );
 };
-
 export default NavBar;

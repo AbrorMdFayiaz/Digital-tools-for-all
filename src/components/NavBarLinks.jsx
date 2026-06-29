@@ -23,5 +23,4 @@ const NavBarLinks = () => {
         </div>
     );
 };
-
 export default NavBarLinks;

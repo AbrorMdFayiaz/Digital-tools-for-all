@@ -57,5 +57,4 @@ const GetStartedPortion = () => {
         </div>
     );
 };
-
 export default GetStartedPortion;
