@@ -1,0 +1,49 @@
+[
+  {
+    "planName": "Basic",
+    "description": "Just enough space for personal files",
+    "price": 0,
+    "billingCycle": "/Month",
+    "isMostPopular": false,
+    "features": [
+      "5 GB Storage",
+      "Basic file sharing",
+      "Email support",
+      "Access from 1 device"
+    ],
+    "buttonText": "Get Basic Free",
+    "buttonAction": "signup_free"
+  },
+  {
+    "planName": "Standard",
+    "description": "Ideal for freelancers and creators",
+    "price": 12,
+    "billingCycle": "/Month",
+    "isMostPopular": true,
+    "features": [
+      "500 GB Storage",
+      "Advanced link sharing",
+      "Priority 24/7 support",
+      "Offline file access",
+      "30-day version history"
+    ],
+    "buttonText": "Start 14-Day Trial",
+    "buttonAction": "start_trial"
+  },
+  {
+    "planName": "Business",
+    "description": "Built for growing teams and enterprises",
+    "price": 45,
+    "billingCycle": "/Month",
+    "isMostPopular": false,
+    "features": [
+      "Unlimited Storage",
+      "Custom branding",
+      "Dedicated account manager",
+      "Admin control console",
+      "Advanced security & compliance"
+    ],
+    "buttonText": "Contact Sales",
+    "buttonAction": "contact_sales"
+  }
+]

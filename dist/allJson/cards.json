@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "badge": "Best Seller",
+    "icon": "https://img.icons8.com/fluency/96/signing-a-document.png",
+    "title": "AI Writing Pro",
+    "description": "Generate high-quality content, blogs, and marketing copy in seconds with advanced AI.",
+    "price": 29,
+    "billingCycle": "/Mo",
+    "features": [
+      "Unlimited AI generations",
+      "50+ writing templates",
+      "Grammar checker"
+    ]
+  },
+  {
+    "id": 2,
+    "badge": "Popular",
+    "icon": "https://img.icons8.com/fluency/96/design.png",
+    "title": "Design Templates Pack",
+    "description": "2000+ premium templates for social media, presentations, and marketing materials.",
+    "price": 49,
+    "billingCycle": "/One-Time",
+    "features": [
+      "2000+ templates",
+      "Monthly updates",
+      "Commercial license"
+    ]
+  },
+  {
+    "id": 3,
+    "badge": "New",
+    "icon": "https://img.icons8.com/fluency/96/camera.png",
+    "title": "Premium Stock Assets",
+    "description": "Access millions of royalty-free photos, videos, and graphics for your projects.",
+    "price": 19,
+    "billingCycle": "/Mo",
+    "features": [
+      "10M+ assets",
+      "Commercial use",
+      "No attribution"
+    ]
+  },
+  {
+    "id": 4,
+    "badge": "Popular",
+    "icon": "https://img.icons8.com/fluency/96/gears.png",
+    "title": "Automation Toolkit",
+    "description": "Automate repetitive tasks and streamline your workflow with powerful tools.",
+    "price": 79,
+    "billingCycle": "/Mo",
+    "features": [
+      "50+ automations",
+      "API access",
+      "Custom workflows"
+    ]
+  },
+  {
+    "id": 5,
+    "badge": "New",
+    "icon": "https://img.icons8.com/fluency/96/resume.png",
+    "title": "Resume Builder Pro",
+    "description": "Create professional resumes and cover letters that land interviews.",
+    "price": 15,
+    "billingCycle": "/One-Time",
+    "features": [
+      "100+ templates",
+      "ATS optimization",
+      "Export to PDF"
+    ]
+  },
+  {
+    "id": 6,
+    "badge": "Best Seller",
+    "icon": "https://img.icons8.com/fluency/96/instagram-new.png",
+    "title": "Social Media Content Kit",
+    "description": "Complete toolkit for creating engaging social media content across all platforms.",
+    "price": 39,
+    "billingCycle": "/Mo",
+    "features": [
+      "5000+ assets",
+      "Scheduler included",
+      "Analytics dashboard"
+    ]
+  },
+  {
+    "id": 7,
+    "badge": "New",
+    "icon": "https://img.icons8.com/fluency/96/line-chart.png",
+    "title": "SEO Optimizer Tool",
+    "description": "Rank higher on search engines with our comprehensive keyword and site audit tools.",
+    "price": 59,
+    "billingCycle": "/Mo",
+    "features": [
+      "Unlimited site audits",
+      "Keyword tracker",
+      "Competitor analysis"
+    ]
+  },
+  {
+    "id": 8,
+    "badge": "Best Seller",
+    "icon": "https://img.icons8.com/fluency/96/video-editing.png",
+    "title": "Video Editing Masterclass",
+    "description": "Learn professional video editing techniques from industry experts.",
+    "price": 99,
+    "billingCycle": "/One-Time",
+    "features": [
+      "40+ hours of video",
+      "Project files included",
+      "Certificate of completion"
+    ]
+  },
+  {
+    "id": 9,
+    "badge": "New",
+    "icon": "https://img.icons8.com/fluency/96/email-open.png",
+    "title": "Email Marketing Suite",
+    "description": "Design, send, and track stunning email campaigns to grow your audience.",
+    "price": 25,
+    "billingCycle": "/Mo",
+    "features": [
+      "Drag-and-drop builder",
+      "Up to 10k subscribers",
+      "A/B testing"
+    ]
+  },
+  {
+    "id": 10,
+    "badge": "Popular",
+    "icon": "https://img.icons8.com/fluency/96/cloud-storage.png",
+    "title": "Cloud Storage Plus",
+    "description": "Secure, fast, and reliable cloud storage for all your business files and backups.",
+    "price": 12,
+    "billingCycle": "/Mo",
+    "features": [
+      "2TB storage limit",
+      "End-to-end encryption",
+      "Automated backups"
+    ]
+  }
+]
