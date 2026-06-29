@@ -28,5 +28,4 @@ const PremiumDigitalToolsSection = ({selectedTools , setSelectedTools}) => {
         </div>
     );
 };
-
 export default PremiumDigitalToolsSection;
